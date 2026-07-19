@@ -53,3 +53,14 @@ ping
 who
 last
 whoami
+
+
+
+Health Summary
+
+cpu          OK
+MEMORY       OK
+DISK         WARNING
+SSH          OK
+SERVICE      OK
+LOGS         OK
