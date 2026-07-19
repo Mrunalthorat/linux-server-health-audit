@@ -64,3 +64,11 @@ DISK         WARNING
 SSH          OK
 SERVICE      OK
 LOGS         OK
+
+
+=========CRONJOB===========
+
+crontab -e
+
+0 8 * * * /C:\Users\DELL\Health-Audit\linux-server-health-audit
+
