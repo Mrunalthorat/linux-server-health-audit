@@ -17,3 +17,39 @@ lscpu
 top
 ps
 
+=========MEMORY===========
+
+free -h
+ps
+
+=========DISK=============
+
+df -h
+du 
+find
+df -i
+
+========SERVICE=============
+
+systemctl list-units
+systemctl --failed
+systemctl status ssh
+
+
+==========LOGS=============
+
+journalctl
+grep
+
+
+============NETWORK==========
+
+ip
+ss
+ping
+
+
+=========User information ===============
+who
+last
+whoami
