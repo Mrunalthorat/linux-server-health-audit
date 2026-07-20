@@ -1,4 +1,5 @@
-Linux Server Health Audit
+<h1>Linux Server Health Audit</h1>
+
 Project Overview
 
 The Linux Server Health Audit project is a Bash scripting automation tool designed to monitor the overall health of a Linux server. The script collects important system information such as CPU usage, memory utilization, disk space, running services, network details, system logs, and user activity. It generates a timestamped health report that helps system administrators quickly identify potential issues and maintain server stability.
